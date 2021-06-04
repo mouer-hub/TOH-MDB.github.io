@@ -1121,7 +1121,7 @@ __webpack_require__.r(__webpack_exports__);
 
 
 const routes = [
-    { path: '', redirectTo: '/home', pathMatch: 'full' },
+    { path: '', redirectTo: '/home' },
     { path: 'home', component: _components_hero_list_hero_list_component__WEBPACK_IMPORTED_MODULE_2__["HeroListComponent"] },
     { path: 'hero-list', component: _components_hero_list_hero_list_component__WEBPACK_IMPORTED_MODULE_2__["HeroListComponent"] },
     { path: 'hero-top', component: _components_hero_top_hero_top_component__WEBPACK_IMPORTED_MODULE_1__["HeroTopComponent"] },
